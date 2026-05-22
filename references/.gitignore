@@ -1,0 +1,5 @@
+# Track only the placeholder files; ignore actual reference images.
+*
+!.gitignore
+!**/.gitkeep
+!**/README.md
